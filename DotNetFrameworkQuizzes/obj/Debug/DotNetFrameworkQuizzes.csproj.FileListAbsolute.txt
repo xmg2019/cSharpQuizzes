@@ -1,0 +1,12 @@
+C:\Users\xiaomin\source\repos\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\bin\Debug\DotNetFrameworkQuizzes.exe.config
+C:\Users\xiaomin\source\repos\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\bin\Debug\DotNetFrameworkQuizzes.exe
+C:\Users\xiaomin\source\repos\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\bin\Debug\DotNetFrameworkQuizzes.pdb
+C:\Users\xiaomin\source\repos\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\obj\Debug\DotNetFrameworkQuizzes.csprojAssemblyReference.cache
+C:\Users\xiaomin\source\repos\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\obj\Debug\DotNetFrameworkQuizzes.exe
+C:\Users\xiaomin\source\repos\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\obj\Debug\DotNetFrameworkQuizzes.pdb
+C:\Users\xiaomin\Desktop\MyGitHub\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\bin\Debug\DotNetFrameworkQuizzes.exe.config
+C:\Users\xiaomin\Desktop\MyGitHub\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\bin\Debug\DotNetFrameworkQuizzes.exe
+C:\Users\xiaomin\Desktop\MyGitHub\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\bin\Debug\DotNetFrameworkQuizzes.pdb
+C:\Users\xiaomin\Desktop\MyGitHub\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\obj\Debug\DotNetFrameworkQuizzes.csprojAssemblyReference.cache
+C:\Users\xiaomin\Desktop\MyGitHub\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\obj\Debug\DotNetFrameworkQuizzes.exe
+C:\Users\xiaomin\Desktop\MyGitHub\DotNetFrameworkQuizzes\DotNetFrameworkQuizzes\obj\Debug\DotNetFrameworkQuizzes.pdb
